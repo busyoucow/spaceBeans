@@ -5,7 +5,7 @@ author: busyoucow
 slide: false
 ---
 
-# 宇宙豆類についての考察
+
 <img alt="picture 0" src="images/f4297f5be6b5e11cb7db1cbb29574d5c8bb4c94bed1edf8b6d6c5c800093eaf9.png" width="400" />  
 
 <div class="page"/>
@@ -14,9 +14,7 @@ slide: false
 <div class="page"/>
 
 # アブストラクション
-現在進行形で宇宙農場に関する原稿を執筆している
-( https://github.com/busyoucow/spacefarm/tree/main ) が、
-
+現在進行形で宇宙農場に関する原稿を執筆しているが、
 今回の寄稿はタンパク質を豊富に含む栽培作物として豆類を取り上げ、その必要性と調理について考察するものとする。
 
 
@@ -58,7 +56,7 @@ slide: false
 
 たんぱく源として宇宙空間で家畜を畜産するのは非効率である。（食肉1kg生産に牛肉は11kg、豚肉6㎏、鶏肉4㎏の穀物が必要　農水省資料より）
 
-そのため植物栽培による原材料の確保を考えて宇宙農場の原稿を執筆している( https://github.com/busyoucow/spacefarm/tree/main )のだが、
+そのため植物栽培による原材料の確保を考えて宇宙農場の原稿を執筆しているのだが、
 今回はタンパク質を豊富に含む栽培作物として豆類を取り上げるものとする。
 （乾燥大豆100g当たりタンパク質36.7g 文科省日本食品標準成分表（八訂）増補2023年第2章より）
 
@@ -112,5 +110,9 @@ slide: false
 ジャンプ＋　及び　TVアニメ　「ダンダダン」　https://anime-dandadan.com/
 
 みんなのきょうの料理　https://www.kyounoryouri.jp/recipe/18881_%E7%85%AE%E8%B1%86.html
+
+文科省日本食品標準成分表（八訂）増補2023年第2章 https://www.mext.go.jp/a_menu/syokuhinseibun/mext_00001.html
+
+拙著　SpaceFarmProject  https://github.com/busyoucow/spacefarm/tree/main 
 
 <div class="page"/>
