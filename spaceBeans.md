@@ -1,6 +1,6 @@
 ---
 title: 宇宙豆類についての考察
-tags: spaceBeans
+tags: 宇宙開発
 author: busyoucow
 slide: false
 ---
