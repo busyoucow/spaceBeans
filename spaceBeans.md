@@ -41,7 +41,7 @@ slide: false
 筆者はオカルト好きな学生のごとく妄想が特異なので本稿も一般人の妄想として御笑覧されたい。
 
 <img alt="abduction" scale=0.5 src="images/21ee2fa05323d00308119ed9ef58cc7b73f15ffc75bd5c59a13e5da7a002102f.png" width="200" />  
-<img alt="turboBabar" scale=0.5 src="images/758f716c3607da286a0a5caeaf395cafd945ee7e27a7014ee411bbbd2966a735.png" width="200" />  
+<img alt="turboBabar" scale=0.5 src="images/758f716c3607da286a0a5caeaf395cafd945ee7e27a7014ee411bbbd2966a735.png" width="100" />  
 
 今回の寄稿は決して技術展示会で「宇宙エダマメ本あります～」と呼びかけたら立ち止まってくれる人が多かったからでもない。
 
