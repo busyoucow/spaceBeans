@@ -6,7 +6,7 @@ slide: false
 ---
 
 
-<img alt="picture 0" src="images/f4297f5be6b5e11cb7db1cbb29574d5c8bb4c94bed1edf8b6d6c5c800093eaf9.png" width="400" />  
+<img alt="zundamon" scale=0.5 src="images/f4297f5be6b5e11cb7db1cbb29574d5c8bb4c94bed1edf8b6d6c5c800093eaf9.png" width="400" />  
 
 <div class="page"/>
 
@@ -40,8 +40,8 @@ slide: false
 
 筆者はオカルト好きな学生のごとく妄想が特異なので本稿も一般人の妄想として御笑覧されたい。
 
-<img alt="abduction" src="images/21ee2fa05323d00308119ed9ef58cc7b73f15ffc75bd5c59a13e5da7a002102f.png" width="200" />  
-<img alt="turboBabar" src="images/758f716c3607da286a0a5caeaf395cafd945ee7e27a7014ee411bbbd2966a735.png" width="200" />  
+<img alt="abduction" scale=0.5 src="images/21ee2fa05323d00308119ed9ef58cc7b73f15ffc75bd5c59a13e5da7a002102f.png" width="200" />  
+<img alt="turboBabar" scale=0.5 src="images/758f716c3607da286a0a5caeaf395cafd945ee7e27a7014ee411bbbd2966a735.png" width="200" />  
 
 今回の寄稿は決して技術展示会で「宇宙エダマメ本あります～」と呼びかけたら立ち止まってくれる人が多かったからでもない。
 
@@ -62,14 +62,31 @@ slide: false
 また大豆のたんぱく価は95％以上(100g中タンパク質33.8g中32.9g)
 
 
-<img alt="picture 4" src="images/d3e492c90cea57183b9341560cbaef91346b451c22868812693ad471300fae11.png" width="200" />  
+<img alt="zundamonKashige" scale=0.5 src="images/d3e492c90cea57183b9341560cbaef91346b451c22868812693ad471300fae11.png" width="200" />  
 
 
 # どんな豆を扱うのか？それは何故か？
+
 今回は豆腐や大豆油などの加工食品に生かしやすく、若い豆は枝豆としても活用できる大豆を扱うものとする。
 大豆は（枝豆としてだが）水耕栽培の例があるからである。また我々にとってなじみの深いものであるのも理由の一つではある。
 
 決して秋葉原ロボット部総統から乾燥大豆を実際に使ってみてくださいと豆を戻すところからやる羽目になったからではない。
+
+
+ちなみに検討した豆の栄養成分を表記する。
+
+| |カロリーkcal/100g|炭水化物/100g|タンパク質g/100g|脂質/100g|カルシウム/100g|
+|:----|:----|:----|:----|:----|:----|
+|ダイズ|372|29.5|33.8|19.7|180|
+|エダマメ（青大豆）|354|30.1|33.5|19.3|160|
+|エンドウ豆|310|60.4|21.7|2.3|65|
+|小豆|304|59.6|20.8|2.0|70|
+| | | | | | |
+|アーモンド|609|20.9|19.6|51.8|250|
+|ピーナツ|573|18.8|25.4|47.5|50|
+| | | | | | |
+
+（文科省日本食品標準成分表（八訂）増補2023年第2章より）
 
 
 # 実際に豆を使ってみた
@@ -80,7 +97,7 @@ slide: false
 食用の乾燥原材料なのに植物の生命力は凄いものだなと感じた。
 
 
-<img alt="picture 1" src="images/6045e12d262081a9a32fc0d8bff6273c3b9f7ffd16d30ec19db58dfc6cad069b.jpg" width="200" />  
+<img alt="hatugaBeans" src="images/6045e12d262081a9a32fc0d8bff6273c3b9f7ffd16d30ec19db58dfc6cad069b.jpg" width="200" />  
 
 
 # 本当にクッキングへ着地できたのか
@@ -94,7 +111,7 @@ slide: false
 
 数日冷蔵庫で寝かせて電子レンジで3分加熱したらホクホク感が増したので繰り返せば柔らかくなるかもしれない。
 
-<img alt="picture 5" src="images/10e387d065f433ae7bd7799f3eaa3461a679a211a5d1dd2168e38bb9453e3e46.jpg" width="200" />  
+<img alt="akutoriBeans" src="images/10e387d065f433ae7bd7799f3eaa3461a679a211a5d1dd2168e38bb9453e3e46.jpg" width="200" />  
 
 しかしこれを毎日閉鎖空間で主菜として摂るのは現実的ではなく、筆者はピーナツのようなポリポリした豆が苦手なので実際には調理した1/10程度（タンパク質3.67g）しか一度に食べられなかった。
 
