@@ -6,8 +6,6 @@ slide: false
 ---
 
 
-<img alt="zundamon" scale=0.5 src="images/f4297f5be6b5e11cb7db1cbb29574d5c8bb4c94bed1edf8b6d6c5c800093eaf9.png" width="400" />  
-
 <div class="page"/>
 
 
@@ -17,6 +15,8 @@ slide: false
 現在進行形で宇宙農場に関する原稿を執筆しているが、
 今回の寄稿はタンパク質を豊富に含む栽培作物として豆類を取り上げ、その必要性と調理について考察するものとする。
 
+
+結果としてタンパク質摂取源としては優秀だが主食や主菜として食すには工夫を要すものとなった。
 
 # はじめに 〜宇宙豆類を考える〜
 
@@ -58,8 +58,10 @@ slide: false
 
 そのため植物栽培による原材料の確保を考えて宇宙農場の原稿を執筆しているのだが、
 今回はタンパク質を豊富に含む栽培作物として豆類を取り上げるものとする。
-（乾燥大豆100g当たりタンパク質36.7g 文科省日本食品標準成分表（八訂）増補2023年第2章より）
-また大豆のたんぱく価は95％以上(100g中タンパク質33.8g中32.9g)
+文科省日本食品標準成分表（八訂）増補2023年第2章によれば、乾燥大豆100g当たりタンパク質36.7g
+また大豆のたんぱく価は95％以上(100g中タンパク質33.8g中32.9g)でありタンパク質摂取源として優秀と思われる。
+
+詳細は次項にて表記する。
 
 
 <img alt="zundamonKashige" scale=0.5 src="images/d3e492c90cea57183b9341560cbaef91346b451c22868812693ad471300fae11.png" width="200" />  
@@ -127,6 +129,9 @@ slide: false
 現在地上閉鎖空間で植物発芽試験を行っているが、その中に大豆もやしも入れていきたいと考えている。
 また、主菜として活躍でき宇宙空間でも僅かなスパイス補給だけで調理できるレシピの開発が必要だと感じたため、進めていきたい。
 
+<img alt="zundamon" scale=0.5 src="images/f4297f5be6b5e11cb7db1cbb29574d5c8bb4c94bed1edf8b6d6c5c800093eaf9.png" width="200" />  
+
+
 
 # 参考文献
 
@@ -141,5 +146,7 @@ slide: false
 上記成分表付属資料 110P https://www.mext.go.jp/content/20230428-mxt_kagsei-mext_00001_011.pdf
 
 拙著　SpaceFarmProject  https://github.com/busyoucow/spacefarm/tree/main 
+
+
 
 <div class="page"/>
