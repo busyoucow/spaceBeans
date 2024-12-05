@@ -157,10 +157,12 @@ copyright: reserved
 
 
 ### ・結論
-当該誌に掲載した内容とは異なり、総重量は増えず逆に僅かに減少した。
+前項の内容とは異なり、総重量は増えず逆に僅かに減少した。
+
 水につける際に蓋をせずに冷蔵庫やレンジ内に置いたり途中かき混ぜたりしたため蒸発や指に水が付いたためと考えられる。
 追試時との条件の差異は2回目の水につける時間が8時間多い16時間であったことと掲載内容時実践は秋口におこない追試は冬におこなったことくらいであろうか。
 追試時に最終的な大豆の芽は膨らんでいなかった。
+
 3枚の皿の重量差は最大1.0gであり秤の公称誤差は0.5gであることを考慮しても重量差は誤差範囲と考えられる。
 以後実践時には、秤の0点修正機能を使わず厳密な総重量の計測を行う必要があると考えられる。
 また温度条件を変えないため常に蓋をして冷蔵庫内で保管する必要もあった。
@@ -203,17 +205,17 @@ copyright: reserved
 
 # 参考文献
 
-[^1] ジャンプ＋　及び　TVアニメ　「ダンダダン」　https://anime-dandadan.com/
+[^1]: ジャンプ＋　及び　TVアニメ　「ダンダダン」　https://anime-dandadan.com/
 
-[^2] 農水省　食糧自給率のお話　その2　お肉の自給率　https://www.maff.go.jp/j/zyukyu/zikyu_ritu/ohanasi01/01-04.html
+[^2]: 農水省　食糧自給率のお話　その2　お肉の自給率　https://www.maff.go.jp/j/zyukyu/zikyu_ritu/ohanasi01/01-04.html
 
-[^3] 文科省日本食品標準成分表（八訂）増補2023年第2章 https://www.mext.go.jp/a_menu/syokuhinseibun/mext_00001.html
+[^3]: 文科省日本食品標準成分表（八訂）増補2023年第2章 https://www.mext.go.jp/a_menu/syokuhinseibun/mext_00001.html
 
-[^4] 上記成分表付属資料 110P https://www.mext.go.jp/content/20230428-mxt_kagsei-mext_00001_011.pdf
+[^4]: 上記成分表付属資料 110P https://www.mext.go.jp/content/20230428-mxt_kagsei-mext_00001_011.pdf
 
-[^5] みんなのきょうの料理　https://www.kyounoryouri.jp/recipe/18881_%E7%85%AE%E8%B1%86.html
+[^5]: みんなのきょうの料理　https://www.kyounoryouri.jp/recipe/18881_%E7%85%AE%E8%B1%86.html
 
-[^6] 拙著　SpaceFarmProject  https://github.com/busyoucow/spacefarm/tree/main 
+[^6]: 拙著　SpaceFarmProject  https://github.com/busyoucow/spacefarm/tree/main 
 
 
 
