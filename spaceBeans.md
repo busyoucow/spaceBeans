@@ -106,29 +106,28 @@ copyright: reserved
 
 
 # 実際に豆を使ってみた
-ひとまず北海道産乾燥大豆をスーパー回って見つけ出し、豆100gを用意し水100gを入れて8時間浸透させた。
+ひとまず北海道産乾燥大豆をスーパー回って見つけ出し、豆100gを用意し水100gを入れて5時間浸透させた。
 
+その結果、豆と水が合計211gまで増加し水がほとんど無くなってしまったため更に水100gを追加し14時間追加で浸透させた。
+その後、豆と水が合計330gに、更に別の用事が入ったため調理タイミングまで34時間浸透させた時点で豆と水は323gになり残っていた水を鍋に移しても豆242.5gにまで増加していた。
 
-その結果、豆と水が合計211gまで増加し水がほとんど無くなってしまったため更に水100gを追加し16時間追加で浸透させた。
-最終的には豆と水が合計330g、残っていた水を鍋に移しても豆323gにまで増加していた。
+<img alt="SetMaterial" src="images/42c156dc9afdb14ff092dfbb068e1755a44af3a5b8ab51ded7c2dfb7dad47aee.jpg" width="200" />  
 
-<img alt="picture 23" src="images/42c156dc9afdb14ff092dfbb068e1755a44af3a5b8ab51ded7c2dfb7dad47aee.jpg" width="200" />  
+<img alt="BeansKeiryou" src="images/ce3684ad4802779ae99de42f5290c462db7ec5c5bdf66dd0a822ba60951d56b5.jpg" width="200" />  
 
-<img alt="picture 22" src="images/ce3684ad4802779ae99de42f5290c462db7ec5c5bdf66dd0a822ba60951d56b5.jpg" width="200" />  
+<img alt="WaterKeiryou" src="images/6bbd210068f553ef994f765e97368d3e0a987829636aa6ec76beb34f131a6a5e.jpg" width="200" />  
 
-<img alt="picture 24" src="images/6bbd210068f553ef994f765e97368d3e0a987829636aa6ec76beb34f131a6a5e.jpg" width="200" />  
+<img alt="Time5Later" src="images/3a3c308cc291dce9afba527f2b240993da4232fcf90b9c8a9c7869e99acf50e0.jpg" width="200" />  
 
-<img alt="picture 25" src="images/3a3c308cc291dce9afba527f2b240993da4232fcf90b9c8a9c7869e99acf50e0.jpg" width="200" />  
+<img alt="Time14Later" src="images/39268d2fe1e624435cd3e369dfe4a714a738842d99650d3c4358bb2af8c27240.jpg" width="200" />  
 
-<img alt="picture 26" src="images/39268d2fe1e624435cd3e369dfe4a714a738842d99650d3c4358bb2af8c27240.jpg" width="200" />  
+<img alt="CookChokuzen34" src="images/7ed2405267b3a32243ef2e404bff6e2d2be7e2d59226c0714edf2bae92c3a83e.jpg" width="200" />  
 
-<img alt="picture 27" src="images/7ed2405267b3a32243ef2e404bff6e2d2be7e2d59226c0714edf2bae92c3a83e.jpg" width="200" />  
-
-<img alt="picture 28" src="images/455e308b87f0b21f4364416323cc367d0aa946b0aeecdc454310dca215dbdbfb.jpg" width="200" />  
+<img alt="BeansOnly" src="images/455e308b87f0b21f4364416323cc367d0aa946b0aeecdc454310dca215dbdbfb.jpg" width="200" />  
 
 <img alt="hatugaBeans" src="images/6045e12d262081a9a32fc0d8bff6273c3b9f7ffd16d30ec19db58dfc6cad069b.jpg" width="200" />  
 
-<img alt="picture 29" src="images/3ec2da573a14799177d8e72e3c5e6266c9f68971a57d6ec09279c3ebbdca57e5.jpg" width="200" />  
+<img alt="BeansnoMe" src="images/3ec2da573a14799177d8e72e3c5e6266c9f68971a57d6ec09279c3ebbdca57e5.jpg" width="200" />  
 
 写真のとおり大豆の芽は膨らんでいるが、加えた水以上に重量が増加した原因は不明のため、追試を行うものとする。 
 
