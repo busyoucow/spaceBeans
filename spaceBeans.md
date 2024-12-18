@@ -106,6 +106,14 @@ copyright: reserved
 
 
 # 実際に豆を使ってみた
+
+## 実験環境
+秤:TANITA KD-199
+豆:北海道産乾燥丸大豆（角屋米穀 一袋250g）
+容器:陶器製深皿
+
+## ひとまず、実験開始
+
 ひとまず北海道産乾燥大豆をスーパー回って見つけ出し、豆100gを用意し水100gを入れて5時間浸透させた。
 
 その結果、豆と水が合計211gまで増加し水がほとんど無くなってしまったため更に水100gを追加し14時間追加で浸透させた。
@@ -113,9 +121,9 @@ copyright: reserved
 
 <img alt="SetMaterial"  scale=0.5 src="images/42c156dc9afdb14ff092dfbb068e1755a44af3a5b8ab51ded7c2dfb7dad47aee.jpg" width="200" />  
 
-<img alt="BeansScale"  scale=0.5 src="images/1a72e3aa8425dc8a54e86a70d808ae2b9736e7376b5d869029ba771cc16c90e0.jpg" width="200" />  
+<img alt="BeansScale"  scale=0.5 src="images/1a72e3aa8425dc8a54e86a70d808ae2b9736e7376b5d869029ba771cc16c90e0.jpg" width="400" />  
 
-<img alt="BeansWater"  scale=0.5 src="images/c043306fbcbc2327bd4d110b39f50f3a2d2761177cc20cbd16161b158ea82417.jpg" width="200" />  
+<img alt="BeansWater"  scale=0.5 src="images/c043306fbcbc2327bd4d110b39f50f3a2d2761177cc20cbd16161b158ea82417.jpg" width="400" />  
 
 写真のとおり大豆の芽は膨らんでいるが、加えた水以上に重量が増加した原因は不明のため、追試を行うものとする。 
 
@@ -140,26 +148,14 @@ copyright: reserved
 ### ・追試結果
 秤はTANITAのKD-199を使用したため校正の必要はないと判断
 
-<img alt="hakari ura" scale=0.5 src="images/f08a6db0646abe88310326aa91a5282a5326f467326d02cbc06fd742f119e913.jpg" width="200" />  
-<img alt="hakari omote" scale=0.5 src="images/d9454cb183d6a16caf919527ec4fd4710d8d9718acf8ef5b24a9d87f739283b7.jpg" width="200" />  
-<img alt="dish 1 0tenhosei" src="images/4155afb17a5ac01e3c947865342b490d08f8dde7b03f0983d7bc8b5b5318600c.jpg" width="200" />  
-<img alt="beans 100g" src="images/8ae104168127799c944397c7492e36cffdeba1337f999c14aee2a59f6557f87e.jpg" width="200" />  
-<img alt="water 100g" src="images/66a54965b3356234d00795795e68a7d5a5717a0e7b1f853780c69ce5b2c1cf8b.jpg" width="200" />  
-<img alt="dish 2 0tenhosei" src="images/6584770fa990994c4bdf582ca70ef4a04b0434cdde99e8534b8fb90e8f68f876.jpg" width="200" />  
-<img alt="8 time zyuryou" src="images/583afef483d74ecc6d5e2dd60599c09400f0f16362935ccf8765be13ed8af9bb.jpg" width="200" />  
-<img alt="plus water 100g" src="images/4f2af65a22f2683fcf951abffacbce688becc1ff839a9b3255c62a2a4d948631.jpg" width="200" />  
-<img alt="dish 2 zyuryou" src="images/4ac37afd9b392b3551e89c0cda23b72bb98b3cb8d69c7e318da5973f646e96a9.jpg" width="200" />  
-<img alt="dish 3 zyuryou" src="images/512dbd77ab53a33cd8e7f8adf0efb99c1f2f4efcb2977710800a2d64d718db69.jpg" width="200" />  
+<img alt="picture 32"  scale=0.5 src="images/6a327524c2879c5065c5b27493e6118a85b1c4a61a998bccfa3b6b2a6c90690b.jpg" width="600" />  
 
 
 秤に皿をのせてゼロセットを秤の機能によって行い、乾燥大豆100gと水100gを入れて8時間おいた
 この時点で196.5gであった。
 その後0点修正を使用し水100gを追加した。
 
-<img alt="plus 8 time add dish1 zyuryou" src="images/877f67eeb9bf7a6b28387f18b8581c06559501588a0f7268c2892d6042fe8805.jpg" width="200" />  
-<img alt="ziploc" src="images/85660d74a9de00be8b513b9fc2322b84331f00876f5e5b453893e9df71a91190.jpg" width="200" />  
-<img alt="dish 1 zyuryou" src="images/1e55d2b4ea13b951e426d34d6259b32e7196e8099178e0f5b862e2834abdfd7c.jpg" width="200" />  
-<img alt="beans move ziploc" src="images/eabb7b156982f665f4f31e5d2db4884a017fbcc84504697c0369cf5baf800f1d.jpg" width="200" />  
+<img alt="picture 33"  scale=0.5 src="images/4beb8a2f6d8f22aa7d0b7848478155c57fbccee48bcf36d95eb6a4633bc7a40b.jpg" width="600" />  
 
 
 追加で8時間おいた際に、同環境にあった同種の皿2枚の重量をはかる。
